@@ -1,0 +1,29 @@
+{
+  "name": "webpack-dev-server-sample",
+  "version": "1.0.0",
+  "description": "a working dev server sample, for webpack 1.8.5",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-livereload": "^3.8.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.10.1",
+    "gulp": "^3.8.11",
+    "gulp-livereload": "^3.8.0",
+    "style-loader": "^0.10.2",
+    "webpack": "^1.8.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiechao06/webpack-dev-server-sample.git"
+  },
+  "author": "xiechao06@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiechao06/webpack-dev-server-sample/issues"
+  },
+  "homepage": "https://github.com/xiechao06/webpack-dev-server-sample"
+}
