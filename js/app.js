@@ -1,2 +1,2 @@
 require('./../css/styles.css');
-alert('c');
+alert('x');
